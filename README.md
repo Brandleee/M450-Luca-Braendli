@@ -12,3 +12,5 @@ Aufgaben:
 [19.09 (Aufgabe 5)](https://github.com/yannikrer/m450/tree/main/19.09)
 
 [26.09 (Aufgabe 6)](https://github.com/yannikrer/m450/tree/main/26.09)
+
+[24.10 (Aufgabe 7)](https://github.com/yannikrer/m450/tree/main/24.10/)
